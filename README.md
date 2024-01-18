@@ -31,6 +31,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
     ```md
     ![Screenshot of terminal](screenshotnode.png)
+    ![ScreenRecording](https://github.com/frankieee324/ReadMeee/assets/144758395/a89991e3-cf9b-453e-9f12-15b308a448c8)
     ```
 
 ## Credits

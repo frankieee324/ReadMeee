@@ -23,7 +23,7 @@ const questions = [
     },
     {
         type:  'input', 
-        name:  'install', 
+        name:  'data.instalation', 
         message: 'Any installations required?'
     },
     {

@@ -29,10 +29,8 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![Screenshot of terminal](screenshotnode.png)
-    ![ScreenRecording](https://github.com/frankieee324/ReadMeee/assets/144758395/a89991e3-cf9b-453e-9f12-15b308a448c8)
-    ```
+ ![ScreenRecording](https://github.com/frankieee324/ReadMeee/assets/144758395/a89991e3-cf9b-453e-9f12-15b308a448c8)
+ 
 
 ## Credits
 
